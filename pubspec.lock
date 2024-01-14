@@ -5,18 +5,18 @@ packages:
     dependency: transitive
     description:
       name: _fe_analyzer_shared
-      sha256: d994c55943e77955bd2cd299c6c02c52ceffc3d21a26461f903f7e10abc05b82
+      sha256: eb376e9acf6938204f90eb3b1f00b578640d3188b4c8a8ec054f9f479af8d051
       url: "https://pub.dev"
     source: hosted
-    version: "34.0.0"
+    version: "64.0.0"
   analyzer:
     dependency: transitive
     description:
       name: analyzer
-      sha256: "426436ca1a3390b330aedf78dad8d70d8df3dc88cf4cabd870428fb02b00119e"
+      sha256: "69f54f967773f6c26c7dcb13e93d7ccee8b17a641689da39e878d5cf13b06893"
       url: "https://pub.dev"
     source: hosted
-    version: "3.2.0"
+    version: "6.2.0"
   args:
     dependency: transitive
     description:
@@ -53,42 +53,42 @@ packages:
     dependency: transitive
     description:
       name: build
-      sha256: "2db35d609460afa45c472c2aab5c408ff088d54fda165d3b8705b91275f63c30"
+      sha256: "80184af8b6cb3e5c1c4ec6d8544d27711700bc3e6d2efad04238c7b5290889f0"
       url: "https://pub.dev"
     source: hosted
-    version: "2.2.2"
+    version: "2.4.1"
   build_config:
     dependency: transitive
     description:
       name: build_config
-      sha256: ad77deb6e9c143a3f550fbb4c5c1e0c6aadabe24274898d06b9526c61b9cf4fb
+      sha256: bf80fcfb46a29945b423bd9aad884590fb1dc69b330a4d4700cac476af1708d1
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.0"
+    version: "1.1.1"
   build_daemon:
     dependency: transitive
     description:
       name: build_daemon
-      sha256: "757153e5d9cd88253cb13f28c2fb55a537dc31fefd98137549895b5beb7c6169"
+      sha256: "0343061a33da9c5810b2d6cee51945127d8f4c060b7fbdd9d54917f0a3feaaa1"
       url: "https://pub.dev"
     source: hosted
-    version: "3.1.1"
+    version: "4.0.1"
   build_resolvers:
     dependency: transitive
     description:
       name: build_resolvers
-      sha256: "4666aef1d045c5ca15ebba63e400bd4e4fbd9f0dd06e791b51ab210da78a27f7"
+      sha256: "339086358431fa15d7eca8b6a36e5d783728cf025e559b834f4609a1fcfb7b0a"
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.6"
+    version: "2.4.2"
   build_runner:
     dependency: "direct dev"
     description:
       name: build_runner
-      sha256: "10db5257d440c097c90bbfdaec0d60654537fbfc46a1d504081699b800ae629e"
+      sha256: "581bacf68f89ec8792f5e5a0b2c4decd1c948e97ce659dc783688c8a88fbec21"
       url: "https://pub.dev"
     source: hosted
-    version: "2.1.8"
+    version: "2.4.8"
   build_runner_core:
     dependency: transitive
     description:
@@ -129,14 +129,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.3"
-  cli_util:
-    dependency: transitive
-    description:
-      name: cli_util
-      sha256: "66f86e916d285c1a93d3b79587d94bd71984a66aac4ff74e524cfa7877f1395c"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.3.5"
   clock:
     dependency: transitive
     description:
@@ -189,10 +181,10 @@ packages:
     dependency: transitive
     description:
       name: dart_style
-      sha256: "6e8086e1d3c2f6bc15056ee248c4ddc48c2bc71287c0961bf801a08633ed4333"
+      sha256: "40ae61a5d43feea6d24bd22c0537a6629db858963b99b4bc1c3db80676f32368"
       url: "https://pub.dev"
     source: hosted
-    version: "2.2.1"
+    version: "2.3.4"
   dio:
     dependency: "direct main"
     description:
@@ -250,10 +242,10 @@ packages:
     dependency: "direct main"
     description:
       name: flutter_modular
-      sha256: "527299534180d94927c3d878dff603db1146a78f3354427ff757716a3456af3e"
+      sha256: "0001461bab9d81a2d7dc976a1f5487bd8074ae65c68b93188a178e5a52a91024"
       url: "https://pub.dev"
     source: hosted
-    version: "4.5.1+1"
+    version: "5.0.2"
   flutter_modular_annotations:
     dependency: transitive
     description:
@@ -279,10 +271,10 @@ packages:
     dependency: transitive
     description:
       name: frontend_server_client
-      sha256: "4f4a162323c86ffc1245765cfe138872b8f069deb42f7dbb36115fa27f31469b"
+      sha256: "408e3ca148b31c20282ad6f37ebfa6f4bdc8fede5b74bc2f08d9d92b55db3612"
       url: "https://pub.dev"
     source: hosted
-    version: "2.1.3"
+    version: "3.2.0"
   glob:
     dependency: transitive
     description:
@@ -391,26 +383,26 @@ packages:
     dependency: "direct main"
     description:
       name: mobx
-      sha256: "66e1b8d46f85c1269e4da979d9ac20b9f07ec7bb046f7e903b593d48ab2602d9"
+      sha256: "74ee54012dc7c1b3276eaa960a600a7418ef5f9997565deb8fca1fd88fb36b78"
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.6+1"
+    version: "2.3.0+1"
   mobx_codegen:
     dependency: "direct dev"
     description:
       name: mobx_codegen
-      sha256: "1ebc712717e46d1f10c3c394cbb5d247e5d06548c512a1a1dfa9c79df37136cb"
+      sha256: b26c7f9c20b38f0ea572c1ed3f29d8e027cb265538bbd1aed3ec198642cfca42
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.5+2"
+    version: "2.6.0+1"
   modular_core:
     dependency: transitive
     description:
       name: modular_core
-      sha256: "8f78a70965f815bc9d3d591d13b13ca710d11e9579304a67ea4f666276a62535"
+      sha256: "84cfe65d2ab15b0265a5bdb07a7a0408b06f8d92fee6fb94a3c85e97cbc2d6af"
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.0"
+    version: "2.0.3+1"
   modular_interfaces:
     dependency: transitive
     description:
@@ -484,10 +476,10 @@ packages:
     dependency: transitive
     description:
       name: source_gen
-      sha256: "00f8b6b586f724a8c769c96f1d517511a41661c0aede644544d8d86a1ab11142"
+      sha256: "14658ba5f669685cd3d63701d01b31ea748310f7ab854e471962670abcf57832"
       url: "https://pub.dev"
     source: hosted
-    version: "1.2.2"
+    version: "1.5.0"
   source_span:
     dependency: transitive
     description:
@@ -552,14 +544,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.1"
-  triple:
-    dependency: transitive
-    description:
-      name: triple
-      sha256: ecade2cfd2bd6860d96ece3c819a5166164eaff604a1569e253f519c5abd6f51
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.5.0+1"
   typed_data:
     dependency: transitive
     description:
