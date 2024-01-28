@@ -1,4 +1,5 @@
 import 'package:cuidapet/app/core/ui/icons/cuidapet_icons.dart';
+import 'package:cuidapet/app/core/ui/widgets/cuidapet_default_button.dart';
 import 'package:cuidapet/app/core/ui/widgets/cuidapet_textform_field.dart';
 import 'package:cuidapet/app/core/ui/widgets/rounded_button_with_icon.dart';
 import 'package:flutter/material.dart';
@@ -33,6 +34,10 @@ class _LoginPageState extends State<LoginPage> {
                 color: Colors.red,
                 icon: CuidapetIcons.facebook,
                 onTap: () {},
+              ),
+              CuidapetDefaultButton(
+                label: 'Entrar',
+                onPressed: () {},
               ),
             ],
           ),
